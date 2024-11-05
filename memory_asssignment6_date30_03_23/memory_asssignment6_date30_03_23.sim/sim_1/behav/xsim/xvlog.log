@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/memory_asssignment6_date30_03_23/memory_asssignment6_date30_03_23.srcs/sources_1/new/memorymodule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sram_16x4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/memory_asssignment6_date30_03_23/memory_asssignment6_date30_03_23.srcs/sim_1/new/simul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation

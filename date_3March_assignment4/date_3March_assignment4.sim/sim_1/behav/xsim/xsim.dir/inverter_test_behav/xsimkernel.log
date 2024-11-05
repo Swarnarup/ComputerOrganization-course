@@ -1,0 +1,4 @@
+Running: xsim.dir/inverter_test_behav/xsimk.exe -simmode gui -wdb inverter_test_behav.wdb -simrunnum 0 -socket 51524
+Design successfully loaded
+Design Loading Memory Usage: 7780 KB (Peak: 7780 KB)
+Design Loading CPU Usage: 77 ms

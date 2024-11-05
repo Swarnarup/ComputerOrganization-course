@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/handout5_date_16march/handout5_date_16march.srcs/sources_1/new/boothbumtiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bmp4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/handout5_date_16march/handout5_date_16march.srcs/sim_1/new/simul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module simulation

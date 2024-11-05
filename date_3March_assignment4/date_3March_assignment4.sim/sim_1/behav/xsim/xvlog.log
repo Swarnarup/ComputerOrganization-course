@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/date_3March_assignment4/date_3March_assignment4.srcs/sources_1/new/casex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module r
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado thing/date_3March_assignment4/date_3March_assignment4.srcs/sim_1/new/simul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inverter_test
